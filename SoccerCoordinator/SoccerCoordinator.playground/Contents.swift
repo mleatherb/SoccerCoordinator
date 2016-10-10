@@ -94,11 +94,11 @@ for players in Sharks {
 }
 
 for players in Dragons {
-    print("Hello, \(players["Guardians"]!) We would like to welcome  \(players["name"]!) to the Sharks! Your first practice will be \(practiceForDragons). We look forward to seeing you")
+    print("Hello, \(players["Guardians"]!) We would like to welcome  \(players["name"]!) to the Dragons! Your first practice will be \(practiceForDragons). We look forward to seeing you")
 }
 
 for players in Raptors {
-    print("Hello, \(players["Guardians"]!) We would like to welcome  \(players["name"]!) to the Sharks! Your first practice will be \(practiceForRaptors). We look forward to seeing you")
+    print("Hello, \(players["Guardians"]!) We would like to welcome  \(players["name"]!) to the Raptors! Your first practice will be \(practiceForRaptors). We look forward to seeing you")
 }
 
 
